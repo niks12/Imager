@@ -1,4 +1,6 @@
-# 📦 Version 1.0-beta Archive Summary
+#   Imager will be moved under Limagica project(Image as a Service), Currently working on Private Repository . Keep in Touch for project information. or write to me !!
+
+##  📦 Version 1.0-beta Archive Summary
 
 **Archived Date:** October 12, 2025  
 **Codename:** "Genesis"  
